@@ -1,1 +1,1 @@
-printss("Hello World byy 4433")
+print("Hello World byy 4433")
